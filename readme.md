@@ -6,7 +6,7 @@ This tool is meant for balancing simple chemical equations
 
 Chemistry students everywhere in Highschool and College alike are learning to 
 balance equations. The online tools I've found have adds and I don't like that 
-so I made a quick tool anyone to use.  
+so I made a quick tool for anyone to use.  
 
 
 ## Usage
