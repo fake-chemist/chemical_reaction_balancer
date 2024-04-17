@@ -24,5 +24,5 @@ C2H5OH + 3O2 -> 2CO2 + 3H2O
 ```
 
 ### Dependencies 
-pulp
-pytest
+  -pulp   
+  -pytest
